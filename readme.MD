@@ -1,0 +1,1 @@
+## PHP CS FIXER 配置文件
